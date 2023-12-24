@@ -1,0 +1,6 @@
+2023-12-24 12:57:22 (I) | 
+================================================================================
+                         SETTING UP INVERSION WORKFLOW                          
+================================================================================
+2023-12-24 12:57:27 (D) | running setup for module 'system.Workstation'
+2023-12-24 12:57:31 (D) | copying par/log file to: /home/zhangzhiyu/MyProjects/Seisflows/work/day_3/3/logs/sflog_001.txt

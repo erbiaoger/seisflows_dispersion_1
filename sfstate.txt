@@ -1,0 +1,10 @@
+# SeisFlows State File
+# Sun Dec 24 12:57:51 2023
+# Acceptable states: 'completed', 'failed', 'pending'
+# =======================================
+evaluate_initial_misfit: completed
+run_adjoint_simulations: completed
+postprocess_event_kernels: completed
+evaluate_gradient_from_kernels: completed
+initialize_line_search: completed
+iteration: 1
